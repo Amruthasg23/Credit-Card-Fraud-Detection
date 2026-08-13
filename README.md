@@ -40,8 +40,6 @@ Credit card fraud is a major financial challenge. This project aims to build a p
 7. Prediction
 
 ## Models Used
-- Logistic Regression
-- Decision Tree
 - Random Forest
 
 
